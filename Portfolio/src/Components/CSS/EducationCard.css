@@ -1,0 +1,31 @@
+.education-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.education-school {
+  font-size: 20px;
+  font-weight: 700;
+  color: #f5f5f5;
+  margin-bottom: 4px;
+}
+
+.education-grade {
+  font-size: 16px;
+  font-weight: 500;
+  color: #FFD60A;
+}
+
+.education-years {
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  color: #9ca3af;
+  white-space: nowrap;
+}
+
+.education-details {
+  color: #9ca3af;
+  line-height: 1.6;
+}

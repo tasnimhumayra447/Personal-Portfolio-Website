@@ -1,0 +1,33 @@
+.card {
+  background: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 16px;
+  padding: 24px;
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(255, 214, 10, 0.15);
+}
+
+.card-gradient {
+  background: linear-gradient(135deg, #1a1a1a 0%, #141414 100%);
+}
+
+.card-with-glow {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-with-glow::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 128px;
+  height: 128px;
+  background: rgba(255, 214, 10, 0.05);
+  border-radius: 50%;
+  filter: blur(48px);
+}
