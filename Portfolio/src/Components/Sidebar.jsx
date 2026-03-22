@@ -1,5 +1,5 @@
 import React from 'react';
-import Photo from '../Assets/Photo prof.jpg';
+import Photo from '../Assets/Photo_prof.jpg';
 import { Mail, MapPin, User, FileText, Briefcase, Send } from 'lucide-react';
 import './CSS/Sidebar.css';
 
