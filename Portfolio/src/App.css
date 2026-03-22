@@ -72,3 +72,31 @@ body {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+
+@media (max-width: 1280px) {
+  .sidebar {
+    width: 280px;
+  }
+  .main-content {
+    margin-left: 280px;
+    padding: 32px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 240px;
+    padding: 24px;
+  }
+  .main-content {
+    margin-left: 240px;
+    padding: 24px;
+  }
+  .profile-image-wrapper {
+    width: 160px;
+    height: 160px;
+  }
+  .profile-name {
+    font-size: 22px;
+  }
+}
