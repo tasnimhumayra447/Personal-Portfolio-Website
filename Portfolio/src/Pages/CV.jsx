@@ -33,14 +33,14 @@ export default function CVPage() {
       • Cambridge Outstanding Learners Award - Top in Country, IGCSE  (Year 10) Biology <br />
       • Cambridge Outstanding Learners Award - Top in Country, IGCSE (Year 10) Business Studies <br />
       • Cambridge Outstanding Learners Award - Top in the World, IGCSE (Year 10) Mathematics <br />
-      • Sheikha Fatima Award for Excellence <br />
+      • Sheikha Fatima Award for Excellence - 1 year Scholarship (2022-2023) <br />
       • Ranked 5th in National IChO (International Chemistry Olympiad) Round
     </>
   );
 
   const courses = (
     <>
-    Dean's Honours List 2026: Ranked in the top 3% in Year 1, Bachelor of Science.
+    Dean's Honours List 2026: Ranked in the top 3% in Year 1, Bachelor of Science. <br />
     Melbourne International Undergraduate Scholarship <br /> <br />
     Courses:<br />
       • Foundations of Algorithms (C, C++) <br />
@@ -48,6 +48,9 @@ export default function CVPage() {
       • Database Systems (SQL) <br />
       • Linear Algebra (MATLAB) <br />
       • Calculus 2
+      • Design of Algorithms (In Progress) <br />
+      • Object Oriented Software Developments (Java) <br />
+      • Probability for Statistics (R) <br />
     </>
   )
 
