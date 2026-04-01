@@ -8,12 +8,14 @@ function AboutMePage() {
     { 
       icon: Brain, 
       title: 'Studying', 
-      description: 'Forever learning computer science, with a focus on AI to solve real-world problems.' 
+      description: `Building strong foundations in Object-Oriented Programming, Data Structures, Algorithms, 
+       and full-stack development principles.`
     },
     { 
       icon: Code, 
       title: 'Coding', 
-      description: 'Using C, C++, Python for problem-solving, Java for OOP, and ReactJS for web development.' 
+      description: `Developing applications using C, C++, Python, Java, and ReactJS, 
+       with a focus on problem-solving, clean design, and scalable solutions.`
     },
     { 
       icon: BookOpen, 
@@ -22,7 +24,7 @@ function AboutMePage() {
     },
     { 
       icon: Dumbbell, 
-      title: 'Sports', 
+      title: 'Badminton', 
       description: `When I'm not coding or studying, you'll find me on the badminton court,
        losing gracefully and blaming everything except myself: the wind, the lighting, and sometimes the shuttle.` 
     }
@@ -32,9 +34,10 @@ function AboutMePage() {
     <div className="page-container section-enter">
       <h2 className="page-title gradient-text">👋 Hello!</h2>
       <p className="page-intro">
-        I'm a second year Computing and Software Systems student, currently focusing on front-end development.
-        I do competitive programming on the side and am passionate about learning new technologies and 
-        applying them to solve real-world problems.
+        I'm a second-year Computing and Software Systems student who enjoys tackling complex problems step by step. 
+        I'm actively strengthening my skills by working through 
+        challenging problems and developing practical projects. My goal is to grow into an engineer who can 
+        design efficient systems and contribute meaningful solutions to real-world challenges.
       </p>
 
       <h3 className="section-title gradient-text">What keeps me busy</h3>

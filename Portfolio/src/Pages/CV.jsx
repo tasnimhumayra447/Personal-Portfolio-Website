@@ -40,6 +40,7 @@ export default function CVPage() {
 
   const courses = (
     <>
+    Dean's Honours List 2026: Ranked in the top 3% in Year 1, Bachelor of Science.
     Melbourne International Undergraduate Scholarship <br /> <br />
     Courses:<br />
       • Foundations of Algorithms (C, C++) <br />
