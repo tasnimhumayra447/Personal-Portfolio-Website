@@ -3,6 +3,7 @@
 A responsive single-page portfolio application built with React and Vite.
 
 ## 🔗 Links
+- **Live Site:** [personal-portfolio-website-pddz-3sgw269qg.vercel.app](https://personal-portfolio-website-pddz-3sgw269qg.vercel.app)
 - **GitHub:** [github.com/tasnimhumayra447](https://github.com/tasnimhumayra447)
 - **LinkedIn:** [linkedin.com/in/humayra-tasnim-625489283](https://www.linkedin.com/in/humayra-tasnim-625489283)
 
