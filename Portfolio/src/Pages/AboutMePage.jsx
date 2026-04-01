@@ -34,10 +34,10 @@ function AboutMePage() {
     <div className="page-container section-enter">
       <h2 className="page-title gradient-text">👋 Hello!</h2>
       <p className="page-intro">
-        I'm a second-year Computing and Software Systems student who enjoys tackling complex problems step by step. 
-        I'm actively strengthening my skills by working through 
-        challenging problems and developing practical projects. My goal is to grow into an engineer who can 
-        design efficient systems and contribute meaningful solutions to real-world challenges.
+        I'm a second-year Computing and Software Systems student 
+        with a strong academic record and hands-on experience in front-end development and competitive programming. 
+        I'm passionate about building efficient,
+        user-focused software and am actively working towards a career in software engineering.
       </p>
 
       <h3 className="section-title gradient-text">What keeps me busy</h3>
